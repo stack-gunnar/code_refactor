@@ -13,4 +13,10 @@ First homework assignment for bootcamp
 
 * Updated CSS Selectors and properties to make sure CSS file was consolidated and organized to follow semantic structure.
 
+
+
+## Screenshot
 ![screnshot of Horiseon Webpage](./assets/images/screenshot.png)
+
+
+## Link
